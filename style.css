@@ -1257,7 +1257,7 @@ em {
 }
 
 .news.announcements .controls a span {
-    background-image: url("mobile_redesign_sprite_icons_v2.svg");
+    background-image: url("/mobile_redesign_sprite_icons_v2.svg");
     display: block;
     height: 12px;
     width: 9px
@@ -1687,7 +1687,7 @@ em {
 }
 
 .nav-button.menu-button span, .menu-button.notification-button span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -233px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -233px 0;
     width: 25px
 }
 
@@ -1697,7 +1697,7 @@ em {
 }
 
 .nav-button.search-button span, .search-button.notification-button span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -259px 0
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -259px 0
 }
 
 @media (min-width: 769px) and (max-width: 992px) {
@@ -1761,7 +1761,7 @@ em {
 }
 
 .nav-button.close-button span, .close-button.notification-button span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -284px 1px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -284px 1px;
     width: 20px
 }
 
@@ -1770,7 +1770,7 @@ em {
 }
 
 .view-more-arrow-bg {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 0;
     display: inline-block;
     height: 12px;
     margin-bottom: 4px;
@@ -1780,7 +1780,7 @@ em {
 }
 
 .view-more-arrow-sm {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -442px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -442px 0;
     display: inline-block;
     height: 12px;
     margin-left: 5px;
@@ -1797,14 +1797,14 @@ em {
 }
 
 .overlay-video .v-close span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -284px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -284px 0;
     display: block;
     height: 24px;
     width: 20px
 }
 
 .search-submit-button {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -259px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -259px 0;
     cursor: pointer;
     border: 0 none;
     height: 24px;
@@ -1812,13 +1812,13 @@ em {
 }
 
 .greater-than-button .greater-than-button-image {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -341px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -341px 0;
     height: 18px;
     width: 11px
 }
 
 .less-than-button .less-than-button {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -331px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -331px 0;
     height: 18px;
     width: 10px
 }
@@ -2272,37 +2272,37 @@ em {
 }
 
 [class^=social-button] a span {
-    background-image: url("mobile_redesign_sprite_icons_v2.svg");
+    background-image: url("/mobile_redesign_sprite_icons_v2.svg");
     background-repeat: no-repeat;
     display: inline-block
 }
 
 .play-button .play-button-image {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -560px 4px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -560px 4px;
     height: 20px;
     width: 14px
 }
 
 .plus-thick {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px 5px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px 5px;
     height: 24px;
     width: 12px
 }
 
 .minus-thick {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -318px 10px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -318px 10px;
     height: 24px;
     width: 12px
 }
 
 .plus-black {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px -13px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px -13px;
     height: 13px;
     width: 12px
 }
 
 .minus-black {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -318px -9px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -318px -9px;
     height: 13px;
     width: 12px
 }
@@ -2313,14 +2313,14 @@ em {
 }
 
 .nav-army-star span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll 0 -100px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll 0 -100px;
     display: block;
     height: 65px;
     width: 52px
 }
 
 .toggle-button {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -168px -49px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -168px -49px;
     display: inline-block;
     height: 11px;
     margin-left: 15px;
@@ -2333,7 +2333,7 @@ em {
 }
 
 .directional-arrow {
-    background-image: url("mobile_redesign_sprite_icons_v2.svg");
+    background-image: url("/mobile_redesign_sprite_icons_v2.svg");
     display: block;
     height: 12px;
     width: 9px
@@ -2413,7 +2413,7 @@ em {
 }
 
 .custom-select::after {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -169px -50px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -169px -50px;
     content: "";
     height: 8px;
     margin-top: -4px;
@@ -3348,7 +3348,7 @@ header .menu-container .list-container>ul>li label {
 }
 
 header .menu-container .list-container>ul>li label span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px 5px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px 5px;
     height: 18px;
     position: absolute;
     right: 12px;
@@ -3648,7 +3648,7 @@ header .menu-container .quicklinks li a {
         transition: color 0.2s linear 0s
     }
     header .menu-container .list-container>ul>li ul li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         margin-left: 30px;
@@ -3730,7 +3730,7 @@ header .menu-container .quicklinks li a {
         transition: color 0.2s linear 0s
     }
     header .menu-container .list-container>ul>li ul li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         margin-left: 30px;
@@ -3812,7 +3812,7 @@ header .menu-container .quicklinks li a {
         transition: color 0.2s linear 0s
     }
     header .menu-container .list-container>ul>li ul li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         margin-left: 30px;
@@ -3894,7 +3894,7 @@ header .menu-container .quicklinks li a {
         transition: color 0.2s linear 0s
     }
     header .menu-container .list-container>ul>li ul li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         margin-left: 30px;
@@ -3976,7 +3976,7 @@ header .menu-container .quicklinks li a {
         transition: color 0.2s linear 0s
     }
     header .menu-container .list-container>ul>li ul li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         margin-left: 30px;
@@ -4044,7 +4044,7 @@ header .menu-container .quicklinks li a {
         color: #fec325
     }
     header .menu-container .quicklinks li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         position: absolute;
@@ -4082,7 +4082,7 @@ header .menu-container .quicklinks li a {
         color: #fec325
     }
     header .menu-container .quicklinks li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         position: absolute;
@@ -4120,7 +4120,7 @@ header .menu-container .quicklinks li a {
         color: #fec325
     }
     header .menu-container .quicklinks li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         position: absolute;
@@ -4158,7 +4158,7 @@ header .menu-container .quicklinks li a {
         color: #fec325
     }
     header .menu-container .quicklinks li a:after {
-        background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
+        background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -427px 5px;
         content: '';
         height: 17px;
         position: absolute;
@@ -4274,7 +4274,7 @@ header .menu-container .quicklinks li a {
 }
 
 .headlines ul li a:after {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -442px 0;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -442px 0;
     content: "";
     height: 12px;
     margin-left: 9px;
@@ -4896,7 +4896,7 @@ nav label::before {
 }
 
 nav label::after {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -169px -50px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -169px -50px;
     content: "";
     height: 8px;
     display: inline-block;
@@ -6915,7 +6915,7 @@ nav input[type=checkbox]:checked~.subnav-container label::after {
 }
 
 .photo-slideshow .ss-move.ss-prev .ss-move-button {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -131px -50px
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -131px -50px
 }
 
 .photo-slideshow .ss-move.ss-next {
@@ -6923,7 +6923,7 @@ nav input[type=checkbox]:checked~.subnav-container label::after {
 }
 
 .photo-slideshow .ss-move.ss-next .ss-move-button {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -138px -50px
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -138px -50px
 }
 
 .photo-slideshow.show-captions .photo figcaption .image-caption {
@@ -7030,7 +7030,7 @@ nav input[type=checkbox]:checked~.subnav-container label::after {
 }
 
 .playlist .playlist-player .playlist-panel .playlist-info h5 span:first-child {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -181px -59px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -181px -59px;
     height: 15px;
     margin-top: 2px;
     position: absolute;
@@ -7107,7 +7107,7 @@ nav input[type=checkbox]:checked~.subnav-container label::after {
 }
 
 .playlist .playlist-player .playlist-panel .videos .video-item .v-play-icon span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -19px -71px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -19px -71px;
     display: block;
     height: 11px;
     width: 10px;
@@ -7162,7 +7162,7 @@ nav input[type=checkbox]:checked~.subnav-container label::after {
 }
 
 .playlist .playlist-player .playlist-toggle span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px -26px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -305px -26px;
     display: inline-block;
     height: 22px;
     width: 31px
@@ -7476,13 +7476,13 @@ blockquote:before, blockquote:after {
 }
 
 blockquote:before {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat -330px -100px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat -330px -100px;
     left: 0;
     top: -20px
 }
 
 blockquote:after {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat -413px -100px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat -413px -100px;
     bottom: -20px;
     right: 0
 }
@@ -7795,7 +7795,7 @@ blockquote:after {
 }
 
 .top-btn span {
-    background: transparent url("mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -181px -59px;
+    background: transparent url("/mobile_redesign_sprite_icons_v2.svg") no-repeat scroll -181px -59px;
     display: block;
     height: 11px;
     width: 11px
