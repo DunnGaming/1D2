@@ -39,18 +39,17 @@
     <!--link to css/js -->
     <link rel="stylesheet" href="style.css" type="text/css" media="screen">
     <script src="e2/armydotmil.min.js" type="text/javascript" charset="utf-8"></script>
-
   </head>
 <!--End of head section-->
 
 <body>
     <!--[if lt IE 9]>
-<div class="oldie-warning">
+	<div class="oldie-warning">
     <p class="warning">!</p>
-      <p>Your version of Internet Explorer is out of date. It has known security flaws and can cause issues displaying content on this page, and other websites.</p>
-      <p><a href="/upgrade" title="Learn how to update your browser">Learn how to update your browser</a></p>
-</div>
-<![endif]-->
+    <p>Your version of Internet Explorer is out of date. It has known security flaws and can cause issues displaying content on this page, and other websites.</p>
+    <p><a href="/upgrade" title="Learn how to update your browser">Learn how to update your browser</a></p>
+	</div>
+	<![endif]-->
 
     <header class="scrolled-down">
     <div class="navbar">
@@ -66,6 +65,7 @@
         </a>
       </div>
     </div>
+
     <div class="nav-window menu-window">
         <div class="menu-container">
           <div class="list-container">
@@ -101,7 +101,8 @@
           </div>
         </div>
     </div>
-    <div class="nav-window search-window">
+    
+	<div class="nav-window search-window">
         <div class="search-form-container">
             <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
                 <div id="preload-01">
@@ -115,62 +116,54 @@
         </div>
     </div>
 </header>
-    <div class="main" role="main">
-    <div class="container no-bottom">
+    
+<div class="main" role="main">
+	<div class="container no-bottom">
         <div class="inner-container">
         <!-- TITLE YOUR FORM -->
-<h3>Learn more about the U.S. Army</h3>
-<h4>Disclosure of any information by you is strictly voluntary. However, delays in providing you requested materials may result by not providing complete information. All information collected will be used strictly for recruiting purposes. The authority for the collection of this information is Title 10, United States Code, Section 503.
+		<h4>Learn more about the U.S. Army</h4>
+		<h5>Disclosure of any information by you is strictly voluntary. However, delays in providing you requested materials may result by not providing complete information. All information collected will be used strictly for recruiting purposes. The authority for the collection of this information is Title 10, United States Code, Section 503.
 
-In other words: Do you want me to contact you? Yes? Please fill out the form. All information provided to me in protected information. </h4>   
-      <!-- START CODING YOUR FORM -->
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSdEoQSETdYZZntjx2lAgoYT6TtjJMAdbM3QBcq9UEfbeZfLyw/formResponse" target="_self" method="POST" id="mG61Hd">
-  <!-- SINGLE LINE TEXT FIELD -->
-  <label for="name">What is your Name?</label>
-  <input name="entry.1931007327" type="text" id="name"/>
-  <br>
-  <!-- SINGLE LINE TEXT FIELD -->
-  <label for="number">What is your Phone Number?</label>
-  <input name="entry.1426980647" type="text" id="number"/>
-  <br>
-  <!-- SINGLE LINE TEXT FIELD -->
-  <label for="email">What is your Email?</label>
-  <input name="entry.1580464788" type="text" id="email"/>
-  <br>
-  <!-- LINEAR SCALE "SLIDER" -->
-  <label for="explain">Level of Interest</label>
-  <input name="entry.1573089" type="range" min="1" max="10" step="1">
-  <br>
-  <p>What Interests you in the U.S. Army?</p>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a1" value="Money"/>
-  <label for="a1">Money</label></div>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a2" value="Adventure"/>
-  <label for="a2">Adventure</label></div>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a3" value="Work Experience">
-  <label for="a3">Work Experience</label></div>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a4" value="More Money">
-  <label for="a4">More Money</label></div>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a5" value="Education">
-  <label for="a5">Education</label></div>
-  <div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a6" value="Service to Country">
-  <label for="a5">Service to Country</label></div>
-  <!-- SUBMIT BUTTON -->
-  <input class="button" type="submit" value="Submit">
-</form>
-        
-      </div>
-          </div>
+		In other words: Do you want me to contact you? Yes? Please fill out the form. All information provided to me in protected information. </h5>   
+		<!-- START CODING YOUR FORM -->
+		<form action="https://docs.google.com/forms/d/e/1FAIpQLSdEoQSETdYZZntjx2lAgoYT6TtjJMAdbM3QBcq9UEfbeZfLyw/formResponse" target="_self" method="POST" id="mG61Hd">
+		<!-- SINGLE LINE TEXT FIELD -->
+		<label for="name">What is your Name?</label>
+		<input name="entry.1931007327" type="text" id="name"/>
+		<!-- SINGLE LINE TEXT FIELD -->
+		<label for="number">What is your Phone Number?</label>
+		<input name="entry.1426980647" type="text" id="number"/>
+		<!-- SINGLE LINE TEXT FIELD -->
+		<label for="email">What is your Email?</label>
+		<input name="entry.1580464788" type="text" id="email"/>
+		<!-- LINEAR SCALE "SLIDER" 
+		<label for="explain">Level of Interest</label>
+		<input name="entry.1573089" type="range" min="1" max="10" step="1"> -->
+		<p>What Interests you in the U.S. Army?</p>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a1" value="Money"/>
+		<label for="a1">Money</label></div>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a2" value="Adventure"/>
+		<label for="a2">Adventure</label></div>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a3" value="Work Experience">
+		<label for="a3">Work Experience</label></div>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a4" value="More Money">
+		<label for="a4">More Money</label></div>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a5" value="Education">
+		<label for="a5">Education</label></div>
+		<div class="input-wrap"><input type="checkbox" name="entry.849217405" id="a6" value="Service to Country">
+		<label for="a5">Service to Country</label></div>
+		<!-- SUBMIT BUTTON -->
+		<input class="button" type="submit" value="Submit">
+		</form>
+     </div>
+</div>
        
-  
- 
-
-
 <section>
-<div class="container no-bottom">
-<div class="inner-container">
-
-</div>
-</div>
+	<div class="container no-bottom">
+		<div class="inner-container">
+			<!--Is This Blank> -->
+		</div>
+	</div>
 </section>
 
 <a href="#" class="top-btn">back to top<span></span></a>
@@ -204,17 +197,14 @@ In other words: Do you want me to contact you? Yes? Please fill out the form. Al
 </footer>
     <script src="e2/armydotmil.min.js" type="text/javascript" charset="utf-8"></script>
 
-    <script>
+ <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-104667335-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 
 </body>
-
 </html>
